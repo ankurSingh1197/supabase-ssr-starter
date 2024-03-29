@@ -2,8 +2,6 @@ import Link from "next/link";
 
 export function Main() {
   return (
-
-    
     <section className="flex justify-center h-screen place-items-center">
       <div className="flex flex-col ">
         <div className="flex flex-col text-center">
